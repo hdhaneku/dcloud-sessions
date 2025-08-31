@@ -13,14 +13,16 @@ python-docx for creating and managing Word documents.
 
 You can install them using pip:
 
-pip install requests python-docx
+**pip install requests python-docx**
 
-How to Use
+**How to Use
+**
+
 Obtain a Bearer Token: You need a valid Bearer Token from the dcloud API. This token is required for authentication and has a limited lifespan. You will need to get a new one if it expires.
 
 Run the Script: Execute the script from your terminal. It will prompt you for the necessary information.
 
-python generate_report.py
+**python user-inputs-dcloud.py**
 
 Provide Input: When prompted, enter the following information:
 
